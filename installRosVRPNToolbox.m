@@ -3,7 +3,7 @@ function installRosVRPNToolbox(replaceExisting)
 %   INSTALLROSVRPNTOOLBOX installs RosVRPNToolbox into the following 
 %   locations:
 %                             Source: Destination
-%           RosURToolboxFunctions: matlabroot\toolbox\rosur
+%           RosURToolboxFunctions: matlabroot\toolbox\rosvrpn
 %
 %   INSTALLROSVRPNTOOLBOX(true) installs RosVRPNToolbox regardless of
 %   whether a copy of the RosVRPNToolbox exists in the MATLAB root.
